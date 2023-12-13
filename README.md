@@ -1,6 +1,5 @@
 
 # Keynote Shuffler
-e Shuffler
 A simple program that shuffles Keynote slides
 
 ## Preview
